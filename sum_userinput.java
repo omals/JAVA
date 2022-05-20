@@ -1,5 +1,5 @@
 import java.util.*;
-public class HelloWorld 
+public class sum_userinput
 {
     public static void main(String[] args) 
     {
