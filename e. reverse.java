@@ -1,6 +1,6 @@
 import java.util.*;
 import java.lang.Math;
-public class reverse
+public class Main
 {
     public static void main(String[] args) 
     {
@@ -13,7 +13,7 @@ public class reverse
         System.out.println("length : "+np);
         int p=np-1;
         int power=(int)Math.pow(10,p);
-        while(np!=0)
+        while(np!=0 & power!=0 & number != 0)
         {   
             if(number/power==0)
             {   
@@ -45,6 +45,11 @@ public class reverse
             }
         }
         System.out.print(reverse);
+        power=(int)Math.pow(10,counte);
+        if(temp%power==0)
+        {
+            countb=countb-counte;
+        }
         if(countb!=0)
         {   
             for(int i=0;i<countb;i++)
