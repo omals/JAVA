@@ -13,7 +13,7 @@ public class Main
         System.out.println("length : "+np);
         int p=np-1;
         int power=(int)Math.pow(10,p);
-        while(np!=0 & power!=0 & number != 0)
+        while(np!=0 & number != 0)
         {   
             if(number/power==0)
             {   
