@@ -1,4 +1,3 @@
-
 public class Area {
     static double computeArea(float radius) {
     	return (3.1428 * radius);
