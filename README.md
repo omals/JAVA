@@ -1,8 +1,14 @@
 # JAVA
-Java Lab works 
+Java Lab works and Lab Cycles
 
+## Data_Source  
+    Lab Cycles
+     
+           a. Area of Circle,Square and Rectangle
 
- ## Day_1 : 
+## Documents
+    Lab Workout Programs
+    Day_1 : 
   
           1.Hello World
           2.Sum of two numbers hard coded values used
