@@ -1,17 +1,15 @@
 public class Area {
     static double computeArea(float radius) {
     	return (3.1428 * radius);
-   
     }
     static float computeArea(int side) {
     	return side*side;
-   
     }
     static float computeArea(float length , float width) {
     	return length*width ;
-   
     }
-	public static void main(String args[]) {
+	
+    public static void main(String args[]) {
 		System.out.println("\t AREA OF SHAPES\n\nShapes used in the program. ");
 		System.out.print("1. Circle\n2.Square\n3.Rectangle\n");
 		System.out.println("As per the per the choice.\n");
