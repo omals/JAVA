@@ -37,7 +37,7 @@ public class Student {
     	this.mark_3 = kb.nextFloat();
     }   
 	
-	void calculate() {
+    void calculate() {
     	if(mark_1 < 50 || mark_2 <50 || mark_3 <50)
     	{
     		total_Mark = 0;
