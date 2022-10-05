@@ -5,6 +5,9 @@ Java Lab works and Lab Cycles
     Lab Cycles
      
            a. Area of Circle,Square and Rectangle
+           b. Student Class
+           c. 3rd Largest number in the array
+           d. Print alternate Prime number
 
 ## Documents
     Lab Workout Programs
@@ -15,3 +18,5 @@ Java Lab works and Lab Cycles
           3.Sum of two numbers input by the user
           4.Check whether number is Odd or Even
           5.Reverse of the given number
+   Day_2  :
+          1.Tower of Hanoi
