@@ -1,7 +1,7 @@
 //Program to find the 3rd largest number in the given set of numbers
 
 import java.util.*;
-public class large
+public class Large
 {
 	public static void main(String srgs[])
 	{
